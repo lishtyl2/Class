@@ -1,0 +1,7 @@
+Imports System
+
+Module Beeper
+  Sub Main ()
+    Console.beep()
+  End Sub
+End Module
